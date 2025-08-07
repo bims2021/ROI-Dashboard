@@ -313,4 +313,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Built with ❤️ for HealthKart's data-driven marketing excellence**
 
-*Version 2.0 | Last Updated: July 2025 | Next Release: October 2025*
+*Version 2.0 | Last Updated: August 2025 | Next Release: October 2025*
